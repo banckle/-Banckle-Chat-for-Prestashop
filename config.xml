@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>bancklechat</name>
+	<displayName><![CDATA[Banckle Chat]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[By using Banckle Chat module for Prestashop, you can reach-out to the visitors of your Prestashop website at a more personal and collaborative level. Walk them through your website, guide them about your products, motivate them to make a decision and turn them into a customer..]]></description>
+	<author><![CDATA[Masood Anwer]]></author>
+	<tab><![CDATA[other]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

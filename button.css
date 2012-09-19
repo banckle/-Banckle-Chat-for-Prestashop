@@ -1,0 +1,6 @@
+  #banckleChatButton{position: fixed;width: 100px;vertical-align: middle;text-align: center;z-index:999999999 !important;}
+  .banckleChatBottomLeft{bottom: 5px;left: 5px;}
+  .banckleChatBottomRight{bottom: 5px;right: 100px;}
+  .banckleChatTopLeft{top: 5px;left: 5px;}
+  .banckleChatTopRight{top: 5px;right: 100px;}
+  #banckleChatButton img{width:200px;}
